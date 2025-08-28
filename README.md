@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/rutvik__savsani" target="blank"><img src="https://img.shields.io/twitter/follow/rutvik__savsani?logo=twitter&style=for-the-badge" alt="rutvik__savsani" /></a> </p>
 
 
-📫 How to reach me **savsanirutvilivetolearn@gmail.com**
+📫 How to reach me **savsanirutvikivetolearn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
